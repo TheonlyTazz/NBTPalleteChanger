@@ -73,3 +73,8 @@ Linux/MacOS
 5. At the question `String to find:`, give a material to look for while being as precise as possible e.g. `minecraft:oak_planks` or `minecraft:oak`
 6. At the question `String to replace to:`, give a material to replace the previous one e.g. `minecraft:acacia_planks` or `minecraft:acacia`
 7. Follow the output on screen
+
+
+## Big Thanks to:
+- Feed The Beast
+- R3GEN (for the tweaks and documentation)
