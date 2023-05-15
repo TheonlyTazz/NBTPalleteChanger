@@ -1,5 +1,5 @@
 # NBTPaletteChanger
-
+![Example of what this script can do](./assets/NBTPaletteChanger.png)
 ## Description
 
 NBTPaletteChanger is a python tool that uses string replacements to change the block palette of structures files (`.nbt`) in a folder.
